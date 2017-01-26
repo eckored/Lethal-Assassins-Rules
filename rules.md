@@ -37,7 +37,7 @@ Currently our Top Commanders and Recruiters are the same subset of officers. Eit
 - goose64
 - \_PSYCH0
 
-Our officers are the remaining player who rank 12 and up by clan points. This position is a badge of honor for their effort and dedication.
+Our Officers are the remaining player who rank 12 and up by clan points. This position is a badge of honor for their effort and dedication.
 
 Fighter are all players who have been in the clan for more than 2 weeks.
 
