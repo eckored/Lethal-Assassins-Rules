@@ -59,15 +59,13 @@ Our **Clan Master** has all possible privileges and rights.
 
 ## Squads
 
-LA is building squads within the clan. There are five squads in various stages of being built. These squads are **Alpha**, **Bravo**, **Charlie**, **Delta**, and **Echo**. These squads are organized by Top Commanders.
+LA is working toward building squads within the clan for the sake of organization and grouping players who work well together, as well as for building strong teams for competing in ESL and beyond.
 
-If you don’t know what squad you are in, you are probably in the default Delta squad, which is co-commanded by shaolinman and goose64. Being in one squad does not necessarily exclude you from others.
+At the moment, there is one squad, **Alpha**, which is being specifically constructed to be a very dedicated group, led by bluesaberist. Alpha squad members will focus on playing with other Alpha squad members to build teamwork. This means that if there are only two or three Alpha members on, they may run clan wars which they will not invite or allow other clan members into. 
 
-Alpha squad is an invitation-only team being crafted by bluesaberist, with specific intentions to play in ESL tournaments. Alpha squad may contain Commanding Officers from other squads.
+After Alpha squad has settled somewhat, other squads will start to be formed, to be led by EckoRED, EvanDarcy88, goose64 and shaolinman, and \_PSYCH0.
 
-Bravo (CO: EvanDarcy), Charlie (CO: \_PSYCH0), and Echo (CO: EckoRED) squads do not yet have explicit terms for acceptance.
-
-Currently all squads are looking to pull players in. Each squad has it’s own Discord voice room, which is controlled directly by the squad commanding officer. If you are not part of a specific squad, don’t expect that you will always be able to join that squad’s voice chat.
+If you feel you work well with another player, please tell a Top Commander so that we have that information to work with in the future.
 
 ## Contacting Members and Officers
 
